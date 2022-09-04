@@ -1,4 +1,4 @@
-*/[ITP] Bucho Burger
+/*[ITP] Bucho Burger
 
 Uma das franquias fictícias de maior sucesso, especializada em sanduíches regionais, é o Bucho Burger. Porém, apesar de ser muito bom em fazer sanduíches, o seu dono não é tão apto a fazer contas de matemática, e frequentemente tem problemas para acertar o troco ou saber quando está faltando alguma coisa no pagamento.
 Para minimizar o prejuízo do estabelecimento e o descontentamento dos clientes quando recebem o troco errado, o Bucho Burger resolveu contratar você para fazer um programa simples de caixa. Você fará um programa que recebe o código do pedido e o valor em dinheiro pago pelo cliente, e informará se o valor está correto, se precisa de troco ou se está faltando dinheiro.
@@ -13,7 +13,6 @@ Combos Bucho Burguer
 
 Seu programa receberá dois valores inteiros, correspondentes ao número do combo e a quantidade de dinheiro fornecida pelo cliente.
 Seu programa deve então informar uma de três situações possíveis:
-
 1 - Se houver troco, ele deve imprimir a mensagem "Troco = X reais", onde X é o valor do troco devido ao cliente.
 2 - Se não houver troco, ele deve imprimir a mensagem "Deu certim!".
 3 - Se faltar dinheiro para completar o valor do combo, ele deve imprimir a mensagem "Saldo insuficiente! Falta X reais", onde X é a quantia que falta para chegar ao valor do combo escolhido.*/
