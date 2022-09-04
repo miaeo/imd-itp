@@ -4,6 +4,7 @@ O supermercado Inteiramente e Totalmente Pão-duro (ITP) estava com um grande pr
 
 Mas como você está com a matemática e a programação em dia, você resolveu fazer um programa para ajudar os clientes do supermercado! O seu programa vai ler um valor numérico inteiro, que representa uma quantidade de dias, e vai dar como resposta o quanto essa quantidade valeria em anos, meses e dias. Para facilitar suas contas, considere que todo ano tem 365 dias, e todo mês tem 30 dias.*/
 
+
 #include <stdio.h>
 #include <stdlib.h>
 
