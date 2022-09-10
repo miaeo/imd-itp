@@ -8,9 +8,7 @@ Podemos obter formas geométricas com caracteres. Faça um programa que dado um 
 int main() {
     char letra;
     int qntd;
-    
     scanf("%d %c", &qntd, &letra);
-    
     
     for (int x = 1; x < qntd; x++){
         for (int y = 1; y < qntd; y++){
