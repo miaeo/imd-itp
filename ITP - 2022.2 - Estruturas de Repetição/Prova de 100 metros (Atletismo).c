@@ -31,4 +31,6 @@ int main() {
         competicoes += 1;
     }
     printf("%d %d", atletas, competicoes);
+    
+    return 0;
 }
